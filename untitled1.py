@@ -17,6 +17,12 @@ def options():
                 print('Invalid input, please try again.')
         except ValueError:
             print('Invalid input, please try again.')
+def display_options():
+    print('What move would you like to make?')
+    print('1 - Classical Move')
+    print('2 - Superposition Move')
+    print('3 - Entanglement')
+    print('4 - Measure All')
 
 def grid():
     grid = {
@@ -78,7 +84,7 @@ def superposition_move(turn, grid,qc):
         else:
             print('Invalid locations, please try again.')
 
-def start_game(optionChosen, grid):
+def start_game(grid):
     turn = 'X'
     winner = False
     counter = 0
@@ -86,14 +92,18 @@ def start_game(optionChosen, grid):
 
     while not winner and counter < 9:
         print_grid(grid)
+        
+        display_options()  # Display options at the beginning of each turn
 
-        if optionChosen == 1:
+        move_option = int(input(f"Player {turn}, choose your move option (1-2): "))
+
+        if move_option == 1:
             classical_move(turn, grid, qc)
-        elif optionChosen == 2:
-            superposition_move(turn, grid,qc)
-        elif optionChosen == 3:
+        elif move_option == 2:
+            superposition_move(turn, grid, qc)
+        elif move_option == 3:
             pass  # Entanglement
-        elif optionChosen == 4:
+        elif move_option == 4:
             pass  # Measure All
 
         counter += 1
@@ -107,8 +117,7 @@ def start_game(optionChosen, grid):
     if winner:
         print(f'Player {turn} wins!')
     else:
-        print('It\'s a draw!')
+        print("It's a draw!")
 
 grid = grid()
-option = options()
-start_game(option, grid)
+start_game(grid)
