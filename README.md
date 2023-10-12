@@ -65,6 +65,11 @@ python quantum_tictactoe.py
 
 ```
 3. Follow the on-screen instructions to play the game. Enjoy!
+## Cridets 
+
+- Maisaa Alhulimi: [LinkedIn]([https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/maisaa-alhulimi-08b83918b/))
+- Maram Alzahrani: [LinkedIn](https://www.linkedin.com/in/janesmith)
+- Nora AlMuqwishi: [LinkedIn](https://www.linkedin.com/in/alexjohnson)
 
 ## Contributing
 
