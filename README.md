@@ -61,6 +61,7 @@ cd quantum-tic-tac-toe
 
 2. Run the game with the desired game mode:
 ```
+python quantum_tictactoe.py
 
 ```
 3. Follow the on-screen instructions to play the game. Enjoy!
