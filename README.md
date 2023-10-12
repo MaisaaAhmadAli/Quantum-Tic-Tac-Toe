@@ -68,7 +68,7 @@ python quantum_tictactoe.py
 ## Cridets 
 
 - Maisaa Alhulimi: [LinkedIn](https://www.linkedin.com/in/maisaa-alhulimi-08b83918b/)
-- Maram Alzahrani: [LinkedIn](https://www.linkedin.com/in/janesmith)
+- Maram Alzahrani: [LinkedIn](https://www.linkedin.com/in/maram-alzahrani-033646268/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - Nora AlMuqwishi: [LinkedIn](https://www.linkedin.com/in/alexjohnson)
 
 ## Contributing
