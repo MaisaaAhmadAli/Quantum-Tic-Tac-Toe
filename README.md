@@ -10,8 +10,9 @@ Quantum Tic-Tac-Toe is a game that combines elements of classical Tic-Tac-Toe wi
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Cridets](#cridets)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Game Modes
 
@@ -69,7 +70,7 @@ python quantum_tictactoe.py
 
 - Maisaa Alhulimi: [LinkedIn](https://www.linkedin.com/in/maisaa-alhulimi-08b83918b/)
 - Maram Alzahrani: [LinkedIn](https://www.linkedin.com/in/maram-alzahrani-033646268/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- Nora AlMuqwishi: [LinkedIn](https://www.linkedin.com/in/alexjohnson)
+- Nora AlMuqwishi: [LinkedIn]()
 
 ## Contributing
 
