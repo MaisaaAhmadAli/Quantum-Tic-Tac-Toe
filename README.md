@@ -1,5 +1,3 @@
-Sure! Here's an example README file for your Quantum Tic-Tac-Toe game on GitHub:
-
 # Quantum Tic-Tac-Toe
 
 Quantum Tic-Tac-Toe is a game that combines elements of classical Tic-Tac-Toe with quantum mechanics. It introduces two game modes: Superposition and Entanglement, each offering a unique gameplay experience. This README file provides an overview of the game and instructions on how to use it.
